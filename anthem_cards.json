@@ -1,21 +1,21 @@
 {
   "anthemList": [
     {
-      "flag": "https://image.similarpng.com/very-thumbnail/2021/04/Nepal-flag-waving-on-a-flagpole-on-transparent-background-PNG.png",
+      "flag": "https://raw.githubusercontent.com/HemKumarRai/kid-hub-assets/remote_config_assets/np-removebg-preview.png",
       "country": "Nepal",
       "anthemUrl": "https://www.youtube.com/watch?v=F0GYEj_jhWY&ab_channel=WebtechNepal",
       "optImage": "🇳🇵",
       "anthemDetail": "राष्ट्रिय गानको शब्द कवि प्रदीपकुमार राई उर्फ ​​व्याकुल माइलाले लेखेका हुन् । गीतमा स्वर्गीय अम्बर गुरुङको संगीत रहेको थियो । नेपाली सार्वभौमसत्ता, एकता, साहस, स्वाभिमान, प्राकृतिक सौन्दर्य, प्रगति, शान्ति, सांस्कृतिक तथा जैविक विविधता र सम्मानको प्रशंसा गर्दै राष्ट्रिय गान मा शब्दबद्ध गरिएको छ ।"
     },
     {
-      "flag": "https://w7.pngwing.com/pngs/699/101/png-transparent-indian-flag-tiranga-border-thumbnail.png",
+      "flag": "https://raw.githubusercontent.com/HemKumarRai/kid-hub-assets/remote_config_assets/in-removebg-preview.png",
       "country": "India",
       "anthemUrl": "https://www.youtube.com/watch?v=HtMF973tXIY&ab_channel=Shemaroo",
       "optImage": "🇮🇳",
       "anthemDetail": "The national anthem is the pride of India and Indians are proud of it. Composed by Nobel Laureate Rabindranath Tagore, the anthem highlights India's national heritage and demonstrates patriotism and loyalty to one's country. 'Jana Gana Mana' reflects the history, traditions and composite culture of India."
     },
      {
-      "flag": "https://w7.pngwing.com/pngs/528/348/png-transparent-american-flag-flag-american-flag-banner.png",
+      "flag": "https://github.com/HemKumarRai/kid-hub-assets/blob/remote_config_assets/us-removebg-preview.png?raw=true",
       "country": "United States",
       "anthemUrl": "https://www.youtube.com/watch?v=FqxJ_iuBPCs&ab_channel=JRvideos",
       "optImage": "🇺🇸",
